@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi I'm Jack
 
+Computer Science @ Indiana University · researching graph databases
+
+[Website](https://jackwember.com) · [LinkedIn](https://www.linkedin.com/in/jack-wember/) · [Email](mailto:jwember@iu.edu)
 <!--
 **Jaq1b/Jaq1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
